@@ -4,7 +4,7 @@ Welcome to the Yoshi's battle AI project repository! This repository contains th
 
 ## Project Description
 
-The objective of this project is to develop an AI system which consists of improving the machine's decision-making process by applying the minimax algorithm to a Yoshi's battle with alternating turns on a 10x10 grid.
+The objective of this project is to develop an AI system which consists of improving the machine's decision-making process by applying the minimax algorithm to a Yoshi's battle with alternating turns on a 8x8 grid.
 
 ### 👀 Take a look!
 
